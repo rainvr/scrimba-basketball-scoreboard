@@ -23,7 +23,7 @@ let container = `<div>
                 </div>
             </div>
             <div>
-                <h3>GUEST</h3>
+                <h3>AWAY</h3>
                 <div class="back-box">
                     <p class="score" id="guest-score">0</p>
                 </div>
